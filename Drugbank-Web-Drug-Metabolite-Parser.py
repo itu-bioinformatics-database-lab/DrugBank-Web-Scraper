@@ -1,3 +1,5 @@
+# DrugBank pharmaco-metabolite data parser written on 06.11.2021
+
 import pandas as pd
 from bs4 import BeautifulSoup
 
